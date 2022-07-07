@@ -68,22 +68,22 @@ author:
   links:
     - label: "CV"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://github.com/skissler/skissler.github.io/raw/quickreturn/assets/documents/KisslerCV_2022-06-16.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/StephenKissler"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/skissler"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/StephenKissler"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/skissler"
 
 defaults:
   # _posts
@@ -111,3 +111,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+atom_feed:
+  hide: true
+  
