@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "News"
 layout: single
 gallery:
   - image_path: /assets/images/covid_projections.jpg
@@ -23,7 +23,7 @@ gallery:
     # title: "Image 4 title caption"
 ---
 
-<h2> News </h2>
+<!-- <h2> News </h2> -->
 <font size=2>
   <ul>
     <li> <b> 2022 Aug 9-11: </b> I'll be at the <a href="https://www.colorado.edu/amath/caccss2022" target="_blank">Contagion on Complex Social Systems (CCSS)</a> workshop at CU Boulder. <br>

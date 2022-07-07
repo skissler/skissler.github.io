@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Stephen Kissler
-email:
+email: skissler@hsph.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Stephen Kissler's academic homepage.
 twitter_username: "@StephenKissler"
@@ -114,4 +114,7 @@ tag_archive:
 
 atom_feed:
   hide: true
-  
+
+masthead_title: "Home"
+
+logo: "/assets/images/normdarkwide.png"
