@@ -56,11 +56,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : Stephen Kissler
+  avatar : "/assets/images/headshot.jpeg"
+  bio    : Postdoctoral Fellow <br> 
+    <a href="https://www.hsph.harvard.edu/" target="_blank"> 
+      Harvard T.H. Chan School of Public Health
+    </a> <br> 
+    <a href="https://www.hsph.harvard.edu/immunology-and-infectious-diseases/" target="_blank">
+      Department of Immunology and Infectious Diseases
+    </a>
   links:
-    - label: "Website"
+    - label: "CV"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"

@@ -1,31 +1,7 @@
 ---
 permalink: /
-# title: "Home"
+title: "Home"
 layout: single
-author:
-  name   : Stephen Kissler
-  avatar : "/assets/images/headshot.jpeg"
-  bio    : Postdoctoral Fellow <br> 
-    <a href="https://www.hsph.harvard.edu/" target="_blank"> 
-      Harvard T.H. Chan School of Public Health
-    </a> <br> 
-    <a href="https://www.hsph.harvard.edu/immunology-and-infectious-diseases/" target="_blank">
-      Department of Immunology and Infectious Diseases
-    </a>
-  links:
-    - label: "CV"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-# header:
-#   image: /assets/images/boston3.jpeg
-# feature_row2:
-#   - excerpt: I'll be at the <a href="https://www.colorado.edu/amath/caccss2022" target="_blank">Contagion on Complex Social Systems (CCSS)</a> workshop at CU Boulder from August 9-11
 gallery:
   - image_path: /assets/images/covid_projections.jpg
     alt: "placeholder image 1"
@@ -45,12 +21,7 @@ gallery:
   - image_path: /assets/images/NYC_prev.jpg
     alt: "placeholder image 6"
     # title: "Image 4 title caption"
-news: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 ---
-<!-- {% include feature_row id="feature_row2" type="left" %} -->
-
-<!-- <h2> Recent work </h2> -->
 
 <h2> News </h2>
 <font size=2>
