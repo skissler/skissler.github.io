@@ -1,11 +1,15 @@
 main:
-  # - title: "Posts"
-  #   url: /posts/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "About"
-    url: /about/
-  - title: "New Page"
-    url: /newpage/
+  # - title: "About"
+  #   url: /about/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publications/
+  - title: "Posts"
+    url: /posts/
+  - title: "Contact"
+    url: /contact/

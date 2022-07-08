@@ -1283,10 +1283,10 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
   .page__hero-caption a { color: #000 !important; }
   /* Hide the following elements on print ========================================================================== */
   .masthead, .toc, .page__share, .page__related, .pagination, .ads, .page__footer, .page__comments-form, .author__avatar, .author__content, .author__urls-wrapper, .nav__list, .sidebar, .adsbygoogle { display: none !important; height: 1px !important; } }
-html { font-size: 10px; }
-@media (min-width: 48em) { html { font-size: 12px; } }
-@media (min-width: 64em) { html { font-size: 14px; } }
-@media (min-width: 80em) { html { font-size: 16px; } }
+html { font-size: 8px; }
+@media (min-width: 48em) { html { font-size: 10px; } }
+@media (min-width: 64em) { html { font-size: 12px; } }
+@media (min-width: 80em) { html { font-size: 14px; } }
 
 .author__avatar { display: table-cell; vertical-align: top; width: 36px; height: 36px; }
 @media (min-width: 64em) { .author__avatar { display: block; width: auto; height: auto; } }

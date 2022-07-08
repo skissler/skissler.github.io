@@ -3,4 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-New text here 
+<font size=2>
+New text here
+</font> 
