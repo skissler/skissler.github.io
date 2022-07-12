@@ -1,10 +1,4 @@
 var store = [{
-        "title": "newdraft",
-        "excerpt":"newdraft trial  ","categories": ["blog"],
-        "tags": [],
-        "url": "/blog/newdraft/",
-        "teaser": null
-      },{
         "title": "Revealing contagion",
         "excerpt":"This is my submission for the NOMIS &amp; Science Young Explorer Award. I feel a kinship with the artists and poets of the Middle Ages who tried to make sense of the plague. They left us chilling, yet oddly familiar images – of dancing skeletons playing flutes, summoning contagion up...","categories": ["blog"],
         "tags": [],

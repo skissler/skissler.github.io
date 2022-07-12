@@ -42,8 +42,6 @@ If any of this sounds interesting – I'd love to chat!  -->
 <!-- <h2> Training background </h2> 
 I trained in applied mathematics at the University of Colorado Boulder (B.S., M.S.) with David Bortz and then at the University of Cambridge (Ph.D.) with Julia Gog. I am now based at the Harvard T.H. Chan School of Public Health in the Department of Immunology and Infectious Diseases. I will become an assistant professor of computer science at the University of Colorado Boulder in August 2023.  -->
 
-<h2> Research interests </h2>
-
 <!-- <h1> News </h1>
 <font size=2>
   <ul>

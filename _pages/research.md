@@ -1,12 +1,33 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /research/
+title: "Research"
 author_profile: false
 ---
 
-<!-- <font size=2>
+<!-- <font size=2> -->
 I aim to improve our society’s ability to prepare for, manage, and emerge from public health crises using advanced data analysis and mathematical models. 
-</font> -->
+<!-- </font> -->
+
+<h2> Research interests </h2>
+
+- __Linking within- and between-host viral dynamics.__ <br>
+	Epidemics are self-similar across multiple scales: an invading pathogen may surge and recede globally, nationally, within our communities, and within our bodies. Our ability to control an epidemic hinges upon being able to link these scales together. Within-host viral kinetics underlie the most fundamental aspects of a pathogen's behavior, such as the magnitude and duration of transmissibility. Viral kinetics also underlie our ability to observe the pathogen, dictating the sensitivity and specificity of diagnostic tests. I seek to characterize the viral kinetics of acute respiratory pathogens by generating experimental designs and developing statistical techniques for viral kinetic inference. I also use mathematical models to determine how interpersonal variation in viral kinetics affects population-level transmission patterns. 
+
+- __Linking mobility, interpersonal encounters, and disease transmission and evolution.__ <br>
+	Digital technology has given us an unprecedented view into how people move and interact. In theory, this knowledge can powerfully inform our understanding of infectious disease transmission. However, we are missing the critical link between encounters and disease transmission, making it difficult to know how best to incorporate these vast troves of data into meaningful disease transmission models. Furthermore, incorporating detailed information about movements and encounters into public health interventions risks major privacy challenges, raising the need for efficient, automated, and anonymized approaches to obtain and act upon the information we need most. I use digital applications and mathematical models to interrogate human mobility patterns and their link with disease transmission. I examine how interpersonal interaction patterns affect the large-scale geographic transmission of disease and the evolution of pathogens. I also seek to build robust, open-source platforms for informing community-specific vaccine prioritization platforms using real-time decentralized anonymized contact data, ensuring that optimal public health interventions do not compromise basic human rights. 
+
+- __Defining the ecology of co-circulating pathogens.__ <br>
+
+
+All of my work is oriented towards developing __effective, evidence-based public health interventions__ by enhancing surveillance, informing policies, and improving communication with the public. 
+
+
+
+<!-- - __Inferring geographic and demographic variation in disease transmission.__ <br> -->
+
+<!-- - __Designing optimal surveillance strategies.__ <br> -->
+
+
 
 <h2> Selected peer-reviewed publications </h2>
 - Viral dynamics of acute SARS-CoV-2 infection and applications to diagnostic and public health strategies <br> <font size=1>
