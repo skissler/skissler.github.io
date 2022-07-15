@@ -61,6 +61,7 @@ plugins:
 author:
   name   : Stephen Kissler
   avatar : "/assets/images/headshot.jpeg"
+  # avatar : "/assets/images/HandPortraitNoPupil.png"
   bio    : Postdoctoral Fellow <br> 
     <a href="https://www.hsph.harvard.edu/" target="_blank"> 
       Harvard T.H. Chan School of Public Health

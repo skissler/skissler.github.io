@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-author_profile: false
+# author_profile: false
 ---
 
 
