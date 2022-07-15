@@ -4,11 +4,57 @@ title: "Research"
 author_profile: false
 ---
 
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+
+.rowcontainer {
+	position:  relative;
+	width:  100%;
+}
+
+.imgcontainer {
+	display: inline-block;
+  	position: relative;
+  	width: 30%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding: 2px;
+  border-radius: 5%;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 14px;
+  padding: 14px;
+  text-align: center;
+}
+
+.imgcontainer:hover .overlay {
+  opacity: 1;
+}
+</style>
+</head>
+
+
 <!-- <font size=2> -->
 <!-- _I aim to improve our society’s ability to prepare for, manage, and emerge from public health crises using advanced data analysis and mathematical models._ -->
 <!-- </font> -->
 
-<div>
+<!-- <div>
 	<center>
 <img src="/assets/images/covid_projections.jpg" style="width:30%; padding:2px">
 <img src="/assets/images/abx_ma.jpg" style="width:30%; padding:2px">
@@ -19,7 +65,54 @@ author_profile: false
 
 
 	</center>
-</div>
+</div> -->
+
+
+<center>
+<div class="rowcontainer">
+	<div class="imgcontainer">
+		<a href="https://www.science.org/doi/10.1126/science.abb5793" target="_blank"><img src="/assets/images/covid_projections.jpg" class="image">
+		<div class="overlay">Pandemic projections</div></a>
+	</div>
+	<div class="imgcontainer">
+		<a href="https://academic.oup.com/jid/article/223/12/2029/6254255?login=true" target="_blank"><img src="/assets/images/abx_ma.jpg" class="image">
+		<div class="overlay">Antibiotic prescribing</div></a>
+	</div>
+	<div class="imgcontainer">
+		<a href="https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwac079/6572389" target="_blank"><img src="/assets/images/life_expectancy.jpg" class="image">
+		<div class="overlay">Life expectancy</div></a>
+	</div>
+</div>	
+
+<div class="rowcontainer">
+	<div class="imgcontainer">
+		<a href="https://www.nejm.org/doi/full/10.1056/NEJMc2102507" target="_blank"><img src="/assets/images/unvax_viral_kinetics.jpg" class="image">
+		<div class="overlay">Viral kinetics</div></a>
+	</div>
+	<div class="imgcontainer">
+		<a href="https://www.nature.com/articles/s41467-020-18271-5" target="_blank"><img src="/assets/images/NYC_prev.jpg" class="image">
+		<div class="overlay">Incidence and mobility</div></a>
+	</div>
+</div>	
+</center>
+
+
+
+<!-- <div class="container">
+	<div>
+  	<img src="/assets/images/covid_projections.jpg" class="image">
+  	<div class="overlay">Pandemic projections</div>
+	</div>
+	<div>
+	<img src="/assets/images/abx_ma.jpg" class="image">
+  	<div class="overlay">Antibiotic prescribing</div>
+	</div>
+</div> -->
+
+
+
+
+
 
 
 <h2> Research interests </h2>
