@@ -5,8 +5,22 @@ author_profile: false
 ---
 
 <!-- <font size=2> -->
-I aim to improve our society’s ability to prepare for, manage, and emerge from public health crises using advanced data analysis and mathematical models. 
+<!-- _I aim to improve our society’s ability to prepare for, manage, and emerge from public health crises using advanced data analysis and mathematical models._ -->
 <!-- </font> -->
+
+<div>
+	<center>
+<img src="/assets/images/covid_projections.jpg" style="width:30%; padding:2px">
+<img src="/assets/images/abx_ma.jpg" style="width:30%; padding:2px">
+<img src="/assets/images/life_expectancy.jpg" style="width:30%; padding:2px"> 
+
+<img src="/assets/images/unvax_viral_kinetics.jpg" style="width:30%; padding:2px">
+<img src="/assets/images/NYC_prev.jpg" style="width:30%; padding:2px">
+
+
+	</center>
+</div>
+
 
 <h2> Research interests </h2>
 

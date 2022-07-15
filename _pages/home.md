@@ -27,6 +27,10 @@ gallery:
 
 <!-- <img src="assets/images/description1.png"> -->
 
+<br> 
+
+<img src="assets/images/summary3.png">
+
 <!-- I work at the intersection of applied mathematics, computer science, and infectious disease epidemiology. 
 
 Through my research, I try to understand how contagion affects our bodies, our communities, and our societies. 
@@ -53,9 +57,9 @@ I trained in applied mathematics at the University of Colorado Boulder (B.S., M.
   </ul>
 </font> -->
 
-<h2> Recent work </h2>
+<!-- <h2> Recent work </h2> -->
 
-{% include gallery class="left" %}
+<!-- {% include gallery class="left" %} -->
 
 
 

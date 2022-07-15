@@ -10,10 +10,4 @@ var store = [{
         "tags": [],
         "url": "/blog/counting/",
         "teaser": null
-      },{
-        "title": "The pendulum",
-        "excerpt":"Early in the pandemic, it was conservative-types who were disgruntled with the public health establishment: too many restrictions, to little account for anything other than the virus. In the past few weeks, something has shifted. We have had criticisms from all sides throughout the pandemic, but lately the loudest voices...","categories": ["blog"],
-        "tags": [],
-        "url": "/blog/the-pendulum/",
-        "teaser": null
       }]
