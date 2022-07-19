@@ -2,7 +2,7 @@
 title: "The pendulum"
 date: 2022-07-08T06:55:00-04:00
 categories:
-  - blog
+  - Essays
 # tags:
 #   - 
 ---

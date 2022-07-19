@@ -201,3 +201,5 @@ All of my work is oriented towards developing __effective, evidence-based public
 
 - Making Hepatitis C a rare disease in the United States <br> <font size=1>
 	Victor Roy, Dave Chokshi, Stephen Kissler, and Prabhjot Singh. <i>Health Affairs Forefront</i> (2016) <a href="https://www.healthaffairs.org/do/10.1377/forefront.20160615.055364" target="_blank">10.1377/forefront.20160615.055364</a> </font>
+
+See a selection of unpublished writing [here](/posts){:target="_blank"}.

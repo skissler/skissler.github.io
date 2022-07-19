@@ -2,7 +2,7 @@
 title: "Revealing contagion"
 date: 2022-07-08T06:25:00-04:00
 categories:
-  - blog
+  - Essays
 # tags:
 #   - 
 ---
